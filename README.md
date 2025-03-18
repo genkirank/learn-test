@@ -1,28 +1,27 @@
-Voici un exemple de fichier `README.md` pour votre repository GitHub :
 
 ---
 
-# Cahier d'Exercices et Projets de Développement Web
+# Web Development Exercises and Projects Notebook
 
-Ce repository est utilisé comme un cahier d'exercices pour suivre mon apprentissage en développement web. Chaque branche représente une technologie ou un sujet spécifique que j'apprends, avec des tags pour les versions importantes.
+This repository serves as a notebook to track my learning in web development. Each branch represents a specific technology or subject I am learning, with tags for important versions.
 
-## Branches et Tags
+## Branches and Tags
 
-- **main** : Branche principale contenant le contenu général du cahier d'exercices.
-- **[nom_technologie]** : Chaque technologie apprise (par exemple, `redux`, `react`, etc.) aura sa propre branche.
-- **Tags** : Utilisés pour marquer les premiers projets ou les versions importantes dans chaque branche.
+- **main** : Main branch containing general notebook content.
+- **[technology_name]** : Each technology learned (e.g., `redux`, `react`, etc.) will have its own branch.
+- **Tags** : Used to mark first projects or important versions in each branch.
 
-## Contenu
+## Content
 
-- **Exercices** : Divers exercices pratiques pour chaque technologie.
-- **Projets** : Projets personnels ou scolaires liés à chaque sujet.
-- **Notes** : Notes personnelles et ressources utiles pour chaque technologie.
+- **Exercises** : Various practical exercises for each technology.
+- **Projects** : Personal or school projects related to each subject.
+- **Notes** : Personal notes and useful resources for each technology.
 
-## Objectif
+## Objective
 
-L'objectif principal de ce repository est de suivre mon apprentissage et de faciliter la révision des concepts clés en développement web.
+The primary objective of this repository is to track my learning and facilitate review of key concepts in web development.
 
-## Technologies Envisagées
+## Planned Technologies
 
 - Redux
 - React
@@ -30,13 +29,11 @@ L'objectif principal de ce repository est de suivre mon apprentissage et de faci
 - MongoDB
 - etc.
 
-## Comment Contribuer
+## How to Contribute
 
-Si vous souhaitez contribuer ou partager vos propres exercices, n'hésitez pas à ouvrir une pull request.
-
----
-
-N'hésitez pas à personnaliser ce modèle en fonction de vos besoins spécifiques !
+If you wish to retrieve exercises to redo them or want to share your own exercises, feel free to open a pull request or send them to me.
 
 ---
-Réponse de Perplexity: pplx.ai/share
+Feel free to adjust as needed!
+
+---
